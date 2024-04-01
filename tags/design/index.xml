@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design on Robins Website</title>
+    <link>http://localhost:1313/tags/design/</link>
+    <description>Recent content in Design on Robins Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Apr 2024 11:29:27 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LupinStory</title>
+      <link>http://localhost:1313/posts/lupinstory/</link>
+      <pubDate>Mon, 01 Apr 2024 11:29:27 -0700</pubDate>
+      <guid>http://localhost:1313/posts/lupinstory/</guid>
+      <description>LupinStory I tried to recreate a funny little Maplestory game that I played as a little kid.&#xA;It was called MonkeyStory&#xA;Since Maplestory was a big part of my childhood, I wanted to pay homage to it by recreating a tiny flash game version of it.&#xA;It is very very WIP, but you can try it here!</description>
+    </item>
+  </channel>
+</rss>
