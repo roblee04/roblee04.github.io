@@ -1,61 +1,536 @@
-<!-- https://picocss.com/ -->
-<!-- https://codesandbox.io/p/sandbox/v1-basic-template-sncy1h?file=%2Findex.html%3A149%2C42 -->
-<!doctype html>
-<html lang="en">
-  <head>
+<!DOCTYPE html>
+<html><head>
+	<meta name="generator" content="Hugo 0.124.1"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="styles.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
-    <title>Robin's Website</title>
-  </head>
-  <body>
-    <main class="container">
-      <h1>Robins website!</h1>
-    </main>
 
-    <nav>
-      <ul>
-        <li><a href="#" > </a></li>
-      </ul>
-      <ul>
-        <li><a href="cats/cats.html" role="button" >Mimi and Leo</a></li>
-      </ul>
-      <ul>
-        <li><a href="school/school.html" role="button"> SCU things </a></li>
-      </ul>
-      <ul>
-        <li><a href="project/project.html" role="button"> projects </a></li>
-      </ul>
-      <ul>
-        <li><a href="things/things.html" role="button"> interesting things </a></li>
-      </ul>
-      <ul>
-        <li><a href="things2/things2.html" role="button"> interesting things 2</a></li>
-      </ul>
-      <ul>
-        <li><a href="#"> </a></li>
-      </ul>
-    </nav>
+    <title>Robins Website</title>
+    <meta name="description" content=" ">
+    <link rel="canonical" href="http://localhost:1313/" />
+    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+    <meta property="og:title" content="Robins Website" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://localhost:1313/" />
 
-    <article class = "at">
-      <header>
-        <p>Welcome to my website!</p>
-      </header>
-      <p>I'm Robin Lee. I'm a person who tries to live life while stumbling and tumbling across whatever hits me.</p>
 
-      <p>I'm currently a Senior at Santa Clara University studying CS in the engineering department. </p>
-      
-      <p>not much here, but just a personal website filled with things about me.</p>
-      
-      <footer>
-        <p>a word cloud on I've been doing the past week based on my browser history (updates every week)</p>
-        <img src="wordcloud.png" alt="wordcloud">
-      </footer>
-    </article>
+    <meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Robins Website"/>
+<meta name="twitter:description" content=""/>
 
     
-  </body>
+
+    
+    <link rel="stylesheet" href='/css/style.css' />
+    
+    <link rel="stylesheet" href='/css/search.css' />
+    
+    <link rel="stylesheet" href='/css/md_nb.css' />
+    <link rel="stylesheet" href='/css/list.css' />
+    <link rel="stylesheet" href='/css/terms.css' />
+    <link rel="stylesheet" href='/css/taxonomy.css' />
+    
+    <link rel="stylesheet" href='/css/font-awesome-4.7.0/css/font-awesome.min.css' />
+    <link rel="stylesheet" href='/css/home.css' />
+    
+    <link rel="stylesheet" href='/css/syntax.css' />
+    
+    <link rel="stylesheet" href='/css/shortcode.css' />
+    
+    
+    
+    <link rel="stylesheet" href='/css/custom.css' />
+    <style>
+         
+    </style>
+    
+    
+    
+    
+    <script src="/js/lazysizes.min.js" async=""></script>
+    <script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="/js/search.js"></script>
+    <script src="/js/md_nb.js"></script>
+    <script src="/js/yes.js"></script>
+    
+        <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+    
+</head><body style="font-family: ,'Helvetica Neue', Helvetica, Arial, 'PingFang SC', 'Hiragino Sans GB', 'Heiti SC', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;">
+        <div class="loading">
+            <div class="loading-bg"></div>
+            <div class="loading-long">
+                <div class="loading-short"></div>
+            </div>
+        </div>
+
+        <header>
+    <nav class="navbar">
+        <div class="navbar-brand">
+            <a href="/">
+                <span class="logo">Robins Website</span>
+            </a>
+        </div>
+        <div class="navbar-menu">
+            
+                <a href="/">
+                    <div class="menu-item">
+                        <div class="hengtiao-root">
+                            <div class="hengtiao"></div>
+                            <div class="name text-wbd-reverse"><i class='fa fa-home'></i> Home</div>
+                        </div>
+                    </div>
+                </a>
+            
+                <a href="/posts">
+                    <div class="menu-item">
+                        <div class="hengtiao-root">
+                            <div class="hengtiao"></div>
+                            <div class="name text-wbd-reverse"><i class='fa fa-book'></i> Posts</div>
+                        </div>
+                    </div>
+                </a>
+            
+                <a href="/projects">
+                    <div class="menu-item">
+                        <div class="hengtiao-root">
+                            <div class="hengtiao"></div>
+                            <div class="name text-wbd-reverse"><i class='fa fa-star'></i> Projects</div>
+                        </div>
+                    </div>
+                </a>
+            
+                <a href="/cats">
+                    <div class="menu-item">
+                        <div class="hengtiao-root">
+                            <div class="hengtiao"></div>
+                            <div class="name text-wbd-reverse"><i class='fa fa-smile-o'></i> Cats</div>
+                        </div>
+                    </div>
+                </a>
+            
+                <a href="/about">
+                    <div class="menu-item">
+                        <div class="hengtiao-root">
+                            <div class="hengtiao"></div>
+                            <div class="name text-wbd-reverse"><i class='fa fa-info-circle'></i> About Me</div>
+                        </div>
+                    </div>
+                </a>
+            
+                <a href="/categories">
+                    <div class="menu-item">
+                        <div class="hengtiao-root">
+                            <div class="hengtiao"></div>
+                            <div class="name text-wbd-reverse"><i class='fa fa-folder-open'></i> Categories</div>
+                        </div>
+                    </div>
+                </a>
+            
+                <a href="/tags">
+                    <div class="menu-item">
+                        <div class="hengtiao-root">
+                            <div class="hengtiao"></div>
+                            <div class="name text-wbd-reverse"><i class='fa fa-tags'></i> Tags</div>
+                        </div>
+                    </div>
+                </a>
+            
+            <div class="navbar-burger">
+                <div class="burger-btn"><span><i class="fa fa-navicon"></i></span></div>
+            </div>
+            
+            
+            <div class="search-in"><span><i class="fa fa-search"></i></span></div>
+            
+                <div class="mode">
+                    <span class="sun"><i class="fa fa-sun-o"></i></span>
+                    <span class="moon"><i class="fa fa-moon-o"></i></span>
+                </div>
+            
+        </div>
+    </nav>
+    <div class="burger-items">
+        
+        <a href="/">
+            <div class="burger-item">
+                <i class='fa fa-home'></i> Home
+            </div>
+        </a>
+        
+        <a href="/posts">
+            <div class="burger-item">
+                <i class='fa fa-book'></i> Posts
+            </div>
+        </a>
+        
+        <a href="/projects">
+            <div class="burger-item">
+                <i class='fa fa-star'></i> Projects
+            </div>
+        </a>
+        
+        <a href="/cats">
+            <div class="burger-item">
+                <i class='fa fa-smile-o'></i> Cats
+            </div>
+        </a>
+        
+        <a href="/about">
+            <div class="burger-item">
+                <i class='fa fa-info-circle'></i> About Me
+            </div>
+        </a>
+        
+        <a href="/categories">
+            <div class="burger-item">
+                <i class='fa fa-folder-open'></i> Categories
+            </div>
+        </a>
+        
+        <a href="/tags">
+            <div class="burger-item">
+                <i class='fa fa-tags'></i> Tags
+            </div>
+        </a>
+        
+    </div>
+    <div class="header-rest"></div>
+</header>
+
+
+        <div id="content">
+
+
+
+
+
+
+
+    
+    
+    
+
+
+
+    <div class="hero">
+        
+        <div class="hero-img-home">
+            <img class="lazyload" src="/images/thumbnail.gif" data-src="/images/light.jpg" alt="">
+        </div>
+        
+        <div class="hero-content">
+                    
+                    
+                    
+                        <div class="hometitle" style="font-size: 40px; margin-bottom: 20px;">Robin Lee</div>
+                    
+                    
+                        <div class="homecontent" style="font-size: 25px;">Welcome!</div>
+                    
+                <button class="todown" type="button">
+                    <i class="fa fa-angle-down fa-3x"></i>
+                </button>
+        </div>
+    </div>
+
+
+
+
+
+
+<div class="zhuti-0">
+
+    
+    <div class="container">
+        
+        <div class="zhuti">
+            
+            <div class="zhuti-l zhuti-l-home">
+                
+                
+                
+                <div class="zuixin">
+                    
+                    <div class="xian-l"></div>
+                    <h3>
+                        WordCloud of the Week
+                    </h3>
+                    <div class="xian-r"></div>
+                </div>
+                
+                <div class="wordcloud">
+                    <h3>A word cloud on I've been doing the past week based on my browser history (updates every week)</h3>
+                    <img src="/images/wordcloud.png" id="wc" alt="wordcloud">
+                </div>
+                <h1></h1>
+                <div class="zuixin">
+                    
+                    <div class="xian-l"></div>
+                    <h3>
+                        Latest Posts
+                    </h3>
+                    <div class="xian-r"></div>
+                </div>
+                <div class="terms-row">
+                    
+                    
+                    <div class="terms-root">
+                        
+
+
+
+<div class="card-large">
+    <div class="card-large-img">
+
+        
+                <img class="lazyload" src="/images/thumbnail.gif" data-src="/thumbnails/bronco.jpg" alt='image loading failed'>
+        
+    </div>
+    <div class="card-large-content">
+        <div class="up-title"><a href="/posts/scu_things/">SCU Things</a></div>
+        <div class="up-date">
+            <span class="no-wrap"><i class="fa fa-calendar"></i> postedOn: 2024-3-31 &nbsp;</span>
+            <span class="no-wrap"><i class="fa fa-calendar-check-o"></i> updatedOn: 2024-3-31 &nbsp;</span>
+            <span class="no-wrap"><i class="fa fa-folder"></i>
+                
+                    includedIn:
+                    
+                        <a href='
+                                        /categories/scu
+                                    '>
+                                SCU
+                            </a>
+                
+            </span>
+        </div>
+        <div class="down-summary">Santa Clara University Things I&rsquo;m from the COEN / CSEN, so I can only give you advice from there. social anx, asian
+Use your time at college to explore who you are or want to be. This can be thru a variety of means
+Meet new people Dabble in new activities / eat mysterious substances APSU / CSA / KSA:</div>
+    </div>
+    <div class="card-readmore">
+        <a href="http://localhost:1313/posts/scu_things/">
+            <span><i class="fa fa-arrow-right"></i></span>
+        </a>
+    </div>
+</div>
+
+
+
+    
+
+
+    <div class="down-type">
+        
+        <span class="down-type-item">
+            <div class="shuxian-root">
+                <div class="shuxian"></div>
+            </div>
+            <div class="type-text">
+                <a href='
+                            /tags/advice
+                        '>
+                    <i class="fa fa-tag"></i> advice
+                </a>
+            </div>
+        </span>
+        
+        <span class="down-type-item">
+            <div class="shuxian-root">
+                <div class="shuxian"></div>
+            </div>
+            <div class="type-text">
+                <a href='
+                            /tags/scu
+                        '>
+                    <i class="fa fa-tag"></i> scu
+                </a>
+            </div>
+        </span>
+        
+    </div>
+
+<div class="dang"></div>
+                    </div>
+                    
+                    
+                    
+                    <div class="terms-root">
+                        
+
+
+
+<div class="card-large">
+    <div class="card-large-img">
+
+        
+                <img class="lazyload" src="/images/thumbnail.gif" data-src="/thumbnails/yuan.jpg" alt='image loading failed'>
+        
+    </div>
+    <div class="card-large-content">
+        <div class="up-title"><a href="/posts/hello/">Hello World</a></div>
+        <div class="up-date">
+            <span class="no-wrap"><i class="fa fa-calendar"></i> postedOn: 2024-3-25 &nbsp;</span>
+            <span class="no-wrap"><i class="fa fa-calendar-check-o"></i> updatedOn: 2024-3-25 &nbsp;</span>
+            <span class="no-wrap"><i class="fa fa-folder"></i>
+                
+                    includedIn:
+                    
+                        <a href='
+                                        /categories/robin
+                                    '>
+                                Robin
+                            </a>
+                
+            </span>
+        </div>
+        <div class="down-summary">Who am I? In case you wanted to learn more about me ig this is where you can e-stalk me.
+This is bold text, and this is emphasized text.
+Visit the Hugo website!</div>
+    </div>
+    <div class="card-readmore">
+        <a href="http://localhost:1313/posts/hello/">
+            <span><i class="fa fa-arrow-right"></i></span>
+        </a>
+    </div>
+</div>
+
+
+
+    
+
+
+    <div class="down-type">
+        
+        <span class="down-type-item">
+            <div class="shuxian-root">
+                <div class="shuxian"></div>
+            </div>
+            <div class="type-text">
+                <a href='
+                            /tags/robin
+                        '>
+                    <i class="fa fa-tag"></i> robin
+                </a>
+            </div>
+        </span>
+        
+        <span class="down-type-item">
+            <div class="shuxian-root">
+                <div class="shuxian"></div>
+            </div>
+            <div class="type-text">
+                <a href='
+                            /tags/history
+                        '>
+                    <i class="fa fa-tag"></i> history
+                </a>
+            </div>
+        </span>
+        
+    </div>
+
+<div class="dang"></div>
+                    </div>
+                    
+                    
+                </div>
+                <div class="more-posts">
+                    <a href=' 
+                            /posts
+                            ' class="efct-button">All Posts</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+        </div>
+
+        <footer class="footer">
+    
+        <div class="container">
+            <div class="footer-items">
+                
+                    <div class="footer-item">
+                        <i class="fa fa-user"></i> <span id="busuanzi_value_site_pv"></span> |
+                        <i class="fa fa-eye"></i> <span id="busuanzi_value_site_uv"></span>
+                    </div>
+                
+                
+                    <div class="footer-item">
+                        © 2022-2024 <a href="https://github.com/roblee04">Robin Lee</a>
+                    </div>
+                
+                
+                    <div class="footer-item">
+                        Theme by <a href="https://github.com/xioyito/NewBee">NewBee</a> | Powered by <a href="https://gohugo.io/">Hugo</a>
+                    </div>
+                
+            </div>
+        </div>
+    
+
+    
+</footer>
+
+
+        
+        <div class="search-root">
+    <div class="search-zz"></div>
+    <div class="search">
+        <div class="sheader anniu">
+            <div class="sh-l">
+                <input type="text" placeholder='Enter a KeyWord' id="search-key">
+                <span class="sclear"><i class="fa fa-close"></i></span>
+            </div>
+            <div class="sh-r">
+                <button>search</button>
+            </div>
+        </div>
+        <div class="sbody">
+            <div class="sbody-1">
+                <div class="stip"></div>
+            </div>
+        </div>
+    </div>
+</div>
+        
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+
+
+
+<script type="text/javascript">
+    var mode_custom = "auto";
+    var postsCount =  2 ;
+    var arrPosts = [{"link":"http://localhost:1313/posts/scu_things/","plain":"Santa Clara University Things I\u0026rsquo;m from the COEN / CSEN, so I can only give you advice from there. social anx, asian\nUse your time at college to explore who you are or want to be. This can be thru a variety of means\nMeet new people Dabble in new activities / eat mysterious substances APSU / CSA / KSA:\nBoxing:\nMaker Space exists\nCool Classes:\nCool professors:\nGood Advice from a friend of mine: https://jrandleman.github.io/doc/CoenAdvice.pdf\n","pubDate":"2024-03-31","title":"SCU Things"},{"link":"http://localhost:1313/posts/hello/","plain":"Who am I? In case you wanted to learn more about me ig this is where you can e-stalk me.\nThis is bold text, and this is emphasized text.\nVisit the Hugo website!\n","pubDate":"2024-03-25","title":"Hello World"}];
+    var search_theEnd = "The End";
+    var search_nothing = "Nothing was found";
+    var search_found = "Found";
+    var search_result = "result";
+    var search_results = "results";
+    var enable_mermaid =  null ;
+
+    var baseURL = "http://localhost:1313/";
+</script>
+
+
+
+
+
+        
+    </body>
 </html>
 
-<!-- show you a picture of what you what to see ascii -->

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robin on Robins Website</title>
+    <link>http://localhost:1313/categories/robin/</link>
+    <description>Recent content in Robin on Robins Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Mar 2024 13:50:27 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/robin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/posts/hello/</link>
+      <pubDate>Mon, 25 Mar 2024 13:50:27 -0700</pubDate>
+      <guid>http://localhost:1313/posts/hello/</guid>
+      <description>Who am I? In case you wanted to learn more about me ig this is where you can e-stalk me.&#xA;This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SCU on Robins Website</title>
+    <link>http://localhost:1313/categories/scu/</link>
+    <description>Recent content in SCU on Robins Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 Mar 2024 15:11:41 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/scu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SCU Things</title>
+      <link>http://localhost:1313/posts/scu_things/</link>
+      <pubDate>Sun, 31 Mar 2024 15:11:41 -0700</pubDate>
+      <guid>http://localhost:1313/posts/scu_things/</guid>
+      <description>Santa Clara University Things I&amp;rsquo;m from the COEN / CSEN, so I can only give you advice from there. social anx, asian&#xA;Use your time at college to explore who you are or want to be. This can be thru a variety of means&#xA;Meet new people Dabble in new activities / eat mysterious substances APSU / CSA / KSA:</description>
+    </item>
+  </channel>
+</rss>

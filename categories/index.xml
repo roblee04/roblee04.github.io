@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Robins Website</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on Robins Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 Mar 2024 15:11:41 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SCU</title>
+      <link>http://localhost:1313/categories/scu/</link>
+      <pubDate>Sun, 31 Mar 2024 15:11:41 -0700</pubDate>
+      <guid>http://localhost:1313/categories/scu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Robin</title>
+      <link>http://localhost:1313/categories/robin/</link>
+      <pubDate>Mon, 25 Mar 2024 13:50:27 -0700</pubDate>
+      <guid>http://localhost:1313/categories/robin/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
