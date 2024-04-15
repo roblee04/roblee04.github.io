@@ -2,22 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/projects/</loc>
-    <lastmod>2024-03-31T17:59:32-07:00</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-04-07T22:02:14-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-04-07T22:02:14-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/reflection/</loc>
+    <lastmod>2024-04-07T22:02:14-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/robin/</loc>
+    <lastmod>2024-04-07T22:02:14-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2024-04-07T22:02:14-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/series/series/</loc>
+    <lastmod>2024-04-07T22:02:14-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/series/</loc>
+    <lastmod>2024-04-07T22:02:14-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-04-07T22:02:14-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/hardest_class/</loc>
+    <lastmod>2024-04-07T22:02:14-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/design/</loc>
+    <lastmod>2024-04-01T11:29:27-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/game/</loc>
+    <lastmod>2024-04-01T11:29:27-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/lupinstory/</loc>
+    <lastmod>2024-04-01T11:29:27-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/projects/</loc>
+    <lastmod>2024-04-01T11:29:27-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2024-03-31T17:59:32-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cats/</loc>
     <lastmod>2024-03-31T17:15:26-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/advice/</loc>
-    <lastmod>2024-03-31T15:11:41-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-03-31T15:11:41-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-03-31T15:11:41-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/scu/</loc>
@@ -27,15 +57,6 @@
     <lastmod>2024-03-31T15:11:41-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/scu_things/</loc>
-    <lastmod>2024-03-31T15:11:41-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/series/series/</loc>
-    <lastmod>2024-03-31T15:11:41-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/series/</loc>
-    <lastmod>2024-03-31T15:11:41-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-03-31T15:11:41-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
@@ -48,9 +69,6 @@
     <lastmod>2024-03-25T13:50:27-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/robin/</loc>
-    <lastmod>2024-03-25T13:50:27-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/robin/</loc>
     <lastmod>2024-03-25T13:50:27-07:00</lastmod>
   </url>
 </urlset>
