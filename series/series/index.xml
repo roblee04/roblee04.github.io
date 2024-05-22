@@ -6,8 +6,15 @@
     <description>Recent content in Series on Robins Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Apr 2024 22:02:14 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 01:37:53 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/series/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Running a Large Language Model on my School Supercomputer</title>
+      <link>http://localhost:1313/posts/hpc_llm/</link>
+      <pubDate>Wed, 22 May 2024 01:37:53 -0700</pubDate>
+      <guid>http://localhost:1313/posts/hpc_llm/</guid>
+      <description></description>
+    </item>
     <item>
       <title>The Hardest Class I took was in Middle School</title>
       <link>http://localhost:1313/posts/hardest_class/</link>
