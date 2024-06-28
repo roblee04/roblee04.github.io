@@ -2,32 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Robins Website</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://roblee04.github.io/categories/</link>
     <description>Recent content in Categories on Robins Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 May 2024 01:37:53 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Projects</title>
-      <link>http://localhost:1313/categories/projects/</link>
-      <pubDate>Wed, 22 May 2024 01:37:53 -0700</pubDate>
-      <guid>http://localhost:1313/categories/projects/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Robin</title>
-      <link>http://localhost:1313/categories/robin/</link>
-      <pubDate>Sun, 07 Apr 2024 22:02:14 -0700</pubDate>
-      <guid>http://localhost:1313/categories/robin/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>SCU</title>
-      <link>http://localhost:1313/categories/scu/</link>
-      <pubDate>Sun, 31 Mar 2024 15:11:41 -0700</pubDate>
-      <guid>http://localhost:1313/categories/scu/</guid>
-      <description></description>
-    </item>
+    <atom:link href="https://roblee04.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

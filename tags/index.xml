@@ -2,74 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Robins Website</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://roblee04.github.io/tags/</link>
     <description>Recent content in Tags on Robins Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 May 2024 01:37:53 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>HPC</title>
-      <link>http://localhost:1313/tags/hpc/</link>
-      <pubDate>Wed, 22 May 2024 01:37:53 -0700</pubDate>
-      <guid>http://localhost:1313/tags/hpc/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>LLM</title>
-      <link>http://localhost:1313/tags/llm/</link>
-      <pubDate>Wed, 22 May 2024 01:37:53 -0700</pubDate>
-      <guid>http://localhost:1313/tags/llm/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Reflection</title>
-      <link>http://localhost:1313/tags/reflection/</link>
-      <pubDate>Sun, 07 Apr 2024 22:02:14 -0700</pubDate>
-      <guid>http://localhost:1313/tags/reflection/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Design</title>
-      <link>http://localhost:1313/tags/design/</link>
-      <pubDate>Mon, 01 Apr 2024 11:29:27 -0700</pubDate>
-      <guid>http://localhost:1313/tags/design/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Game</title>
-      <link>http://localhost:1313/tags/game/</link>
-      <pubDate>Mon, 01 Apr 2024 11:29:27 -0700</pubDate>
-      <guid>http://localhost:1313/tags/game/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Advice</title>
-      <link>http://localhost:1313/tags/advice/</link>
-      <pubDate>Sun, 31 Mar 2024 15:11:41 -0700</pubDate>
-      <guid>http://localhost:1313/tags/advice/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Scu</title>
-      <link>http://localhost:1313/tags/scu/</link>
-      <pubDate>Sun, 31 Mar 2024 15:11:41 -0700</pubDate>
-      <guid>http://localhost:1313/tags/scu/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>History</title>
-      <link>http://localhost:1313/tags/history/</link>
-      <pubDate>Mon, 25 Mar 2024 13:50:27 -0700</pubDate>
-      <guid>http://localhost:1313/tags/history/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Robin</title>
-      <link>http://localhost:1313/tags/robin/</link>
-      <pubDate>Mon, 25 Mar 2024 13:50:27 -0700</pubDate>
-      <guid>http://localhost:1313/tags/robin/</guid>
-      <description></description>
-    </item>
+    <atom:link href="https://roblee04.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
