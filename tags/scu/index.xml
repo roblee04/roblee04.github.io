@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scu on Robins Website</title>
-    <link>http://localhost:1313/tags/scu/</link>
+    <link>https://roblee04.github.io/tags/scu/</link>
     <description>Recent content in Scu on Robins Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 31 Mar 2024 15:11:41 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/scu/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://roblee04.github.io/tags/scu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SCU Things</title>
-      <link>http://localhost:1313/posts/scu_things/</link>
+      <link>https://roblee04.github.io/posts/scu_things/</link>
       <pubDate>Sun, 31 Mar 2024 15:11:41 -0700</pubDate>
-      <guid>http://localhost:1313/posts/scu_things/</guid>
+      <guid>https://roblee04.github.io/posts/scu_things/</guid>
       <description>Advice to my previous self and other interesting SCU Things At the time of this writing, I am freshly graduated with my bachelors from Santa Clara University. \&#xA;Physically, I don&amp;rsquo;t feel any different than I did four years ago. Mentally, I feel like I already experienced a lifetime. That&amp;rsquo;s kind of how aging works.</description>
     </item>
   </channel>

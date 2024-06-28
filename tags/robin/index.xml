@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Robin on Robins Website</title>
-    <link>http://localhost:1313/tags/robin/</link>
+    <link>https://roblee04.github.io/tags/robin/</link>
     <description>Recent content in Robin on Robins Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 25 Mar 2024 13:50:27 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/robin/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://roblee04.github.io/tags/robin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>http://localhost:1313/posts/hello/</link>
+      <link>https://roblee04.github.io/posts/hello/</link>
       <pubDate>Mon, 25 Mar 2024 13:50:27 -0700</pubDate>
-      <guid>http://localhost:1313/posts/hello/</guid>
+      <guid>https://roblee04.github.io/posts/hello/</guid>
       <description>Who am I? In case you wanted to learn more about me I guess this is where you can e-stalk me.&#xA;As you have read in the About Me page, I have an interest in a wide variety of subjects which include math, philosophy, branches of computer science, and literature.</description>
     </item>
   </channel>

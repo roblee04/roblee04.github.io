@@ -6,6 +6,28 @@
     <description>Recent content in Categories on Robins Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 22 May 2024 01:37:53 -0700</lastBuildDate>
     <atom:link href="https://roblee04.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>https://roblee04.github.io/categories/projects/</link>
+      <pubDate>Wed, 22 May 2024 01:37:53 -0700</pubDate>
+      <guid>https://roblee04.github.io/categories/projects/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Robin</title>
+      <link>https://roblee04.github.io/categories/robin/</link>
+      <pubDate>Sun, 07 Apr 2024 22:02:14 -0700</pubDate>
+      <guid>https://roblee04.github.io/categories/robin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SCU</title>
+      <link>https://roblee04.github.io/categories/scu/</link>
+      <pubDate>Sun, 31 Mar 2024 15:11:41 -0700</pubDate>
+      <guid>https://roblee04.github.io/categories/scu/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

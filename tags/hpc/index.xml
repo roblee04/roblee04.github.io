@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HPC on Robins Website</title>
-    <link>http://localhost:1313/tags/hpc/</link>
+    <link>https://roblee04.github.io/tags/hpc/</link>
     <description>Recent content in HPC on Robins Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 22 May 2024 01:37:53 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/hpc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://roblee04.github.io/tags/hpc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Running a Large Language Model on my School Supercomputer</title>
-      <link>http://localhost:1313/posts/hpc_llm/</link>
+      <link>https://roblee04.github.io/posts/hpc_llm/</link>
       <pubDate>Wed, 22 May 2024 01:37:53 -0700</pubDate>
-      <guid>http://localhost:1313/posts/hpc_llm/</guid>
+      <guid>https://roblee04.github.io/posts/hpc_llm/</guid>
       <description>Welcome! I was having some fun browsing /r/localLLaMA and I saw that llama3 popped up!&#xA;At the time it was real good for its parameter size and just in general, so I wanted to try to run it!&#xA;Of course, I could&amp;rsquo;ve ran it in a Q5 quantized form on my desktop with a 1080ti, however, I felt like using my school funding to use.</description>
     </item>
   </channel>
