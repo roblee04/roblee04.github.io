@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Robins Website</title>
-    <link>https://roblee04.github.io/categories/projects/</link>
+    <link>http://localhost:1313/categories/projects/</link>
     <description>Recent content in Projects on Robins Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 May 2024 01:37:53 -0700</lastBuildDate>
-    <atom:link href="https://roblee04.github.io/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Jul 2024 15:30:05 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Making of Cat Gallery! Part 1</title>
+      <link>http://localhost:1313/posts/cat_gallery/</link>
+      <pubDate>Thu, 18 Jul 2024 15:30:05 -0700</pubDate>
+      <guid>http://localhost:1313/posts/cat_gallery/</guid>
+      <description>Motivation and Inspiration mimi and leo, my two cats. I love them. https://www.youtube.com/watch?v=GiaD7WSdb4M&amp;amp; Modern search engines aren&amp;rsquo;t very good at finding pictures (only via metadata) i think vision models are pretty cool Whats the basic idea? Have an API to do the search!&#xA;provided by the image server files live on the image server actually, the image server does all the computation The API is then called by a some static site.</description>
+    </item>
     <item>
       <title>Running a Large Language Model on my School Supercomputer</title>
-      <link>https://roblee04.github.io/posts/hpc_llm/</link>
+      <link>http://localhost:1313/posts/hpc_llm/</link>
       <pubDate>Wed, 22 May 2024 01:37:53 -0700</pubDate>
-      <guid>https://roblee04.github.io/posts/hpc_llm/</guid>
+      <guid>http://localhost:1313/posts/hpc_llm/</guid>
       <description>Welcome! I was having some fun browsing /r/localLLaMA and I saw that llama3 popped up!&#xA;At the time it was real good for its parameter size and just in general, so I wanted to try to run it!&#xA;Of course, I could&amp;rsquo;ve ran it in a Q5 quantized form on my desktop with a 1080ti, however, I felt like using my school funding to use.</description>
     </item>
     <item>
       <title>LupinStory</title>
-      <link>https://roblee04.github.io/posts/lupinstory/</link>
+      <link>http://localhost:1313/posts/lupinstory/</link>
       <pubDate>Mon, 01 Apr 2024 11:29:27 -0700</pubDate>
-      <guid>https://roblee04.github.io/posts/lupinstory/</guid>
+      <guid>http://localhost:1313/posts/lupinstory/</guid>
       <description>LupinStory I tried to recreate a funny little Maplestory game that I played as a little kid.&#xA;It was called MonkeyStory.&#xA;Maplestory was a big part of my childhood, I played a ton of it with my brother and I remember revolving a lot a lot of time around it.</description>
     </item>
   </channel>
