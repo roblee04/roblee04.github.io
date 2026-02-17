@@ -8,6 +8,7 @@ thumbnail: "https://img.youtube.com/vi/YxncWJhUSRs/maxresdefault.jpg"
 description: "Enhancing neural image compression by incorporating text captions to improve compression results using deep learning approaches like variational autoencoders."
 technologies: ["Python", "Deep Learning", "VAE", "PyTorch", "Computer Vision", "NLP"]
 demo: "https://www.youtube.com/watch?v=YxncWJhUSRs"
+paper: "/files/neural-image-compression.pdf"
 status: "Completed"
 ---
 
@@ -52,6 +53,16 @@ The models were trained using the MS-COCO 2014 training split (82,783 images) an
 - **Efficiency:** The implementation of linear attention addressed the quadratic bottleneck, making the model more scalable for future use with longer text sequences.
 
 - **Consistency:** All augmentations maintained competitive FID scores, ensuring that general realism was preserved without introducing new blurriness or artifacts.
+
+### Project Report
+
+<div style="margin: 2rem 0; padding: 1rem; background: #f5f5f5; border-radius: 8px;">
+  <object data="/files/neural-image-compression.pdf" type="application/pdf" width="100%" height="600px">
+    <p>Unable to display PDF file. <a href="/files/neural-image-compression.pdf">Download instead</a>.</p>
+  </object>
+</div>
+
+[Download PDF →](/files/neural-image-compression.pdf)
 
 ### Demo
 
