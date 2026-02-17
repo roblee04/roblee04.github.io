@@ -3,6 +3,7 @@ title: "Distributed File System"
 date: 2024-03-15
 draft: false
 featured: true
+weight: 80
 thumbnail: "/thumbnails/bronco.jpg"
 description: "A fault-tolerant distributed file system that distributes load across multiple machines, built as a group final project for Distributed Systems course."
 technologies: ["Go", "Distributed Systems", "gRPC", "Fault Tolerance", "Replication"]
@@ -29,9 +30,15 @@ A group final project for my Distributed Systems course. We implemented a file s
 - Implements distributed consensus algorithms
 - Handles network partitions and node failures
 
-### Paper
+### Project Report
 
-[Read the Project Report →](/files/Project_Report.pdf)
+<div style="margin: 2rem 0; padding: 1rem; background: #f5f5f5; border-radius: 8px;">
+  <object data="/files/Project_Report.pdf" type="application/pdf" width="100%" height="600px">
+    <p>Unable to display PDF file. <a href="/files/Project_Report.pdf">Download instead</a>.</p>
+  </object>
+</div>
+
+[Download PDF →](/files/Project_Report.pdf)
 
 ### Source Code
 
