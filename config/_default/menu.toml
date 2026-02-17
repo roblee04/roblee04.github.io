@@ -5,11 +5,21 @@
   weight = 1
 
 [[main]]
+  name = "Resume"
+  url = "/resume/"
+  weight = 2
+
+[[main]]
+  name = "Projects"
+  url = "/projects/"
+  weight = 3
+
+[[main]]
   name = "Posts"
   url = "/post/"
-  weight = 2
+  weight = 4
 
 [[main]]
   name = "About"
   url = "/about/"
-  weight = 3
+  weight = 5

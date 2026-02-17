@@ -4,7 +4,7 @@ twitter_cards = false
 readmore = false
 pager = true
 post_meta = ["date", "categories"]
-mainSections = ["post"]
+mainSections = ["post", "projects"]
 defaultLightingMode = "auto"
 iconsDir = "img/"
 
