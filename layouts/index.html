@@ -5,16 +5,5 @@
 		{{ . }}
 	</div>
 	{{- end }}
-	
-	{{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
-	{{- range $paginator.Pages }}
-		{{- .Render "summary" }}
-	{{- end }}
-	{{- if and (eq $paginator.TotalNumberOfElements 0) (not $.Content) }}
-		<div class="warning">
-			<h3 class="warning__headline">No posts yet</h3>
-		</div>
-	{{ end }}
 </main>
-{{ partial "pagination.html" . }}
 {{ end }}
