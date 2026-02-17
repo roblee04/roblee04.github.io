@@ -4,7 +4,7 @@ date: 2024-03-15
 draft: false
 featured: true
 weight: 80
-thumbnail: "/thumbnails/bronco.jpg"
+thumbnail: "/thumbnails/napster.jpg"
 description: "A fault-tolerant distributed file system that distributes load across multiple machines, built as a group final project for Distributed Systems course."
 technologies: ["Go", "Distributed Systems", "gRPC", "Fault Tolerance", "Replication"]
 github: "https://github.com/roblee04/Distributed_File_System"
