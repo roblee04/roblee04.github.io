@@ -4,6 +4,7 @@ date: 2024-05-22
 draft: false
 featured: true
 thumbnail: "/thumbnails/meta-ollama-llama3.png"
+description: "Running Llama 3 and other large language models on SCU's WAVE HPC cluster with NVIDIA V100 GPUs for research and experimentation."
 technologies: ["Python", "Ollama", "LLM", "HPC", "SLURM", "Docker"]
 github: "https://github.com/roblee04"
 status: "Completed"

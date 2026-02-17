@@ -4,6 +4,7 @@ date: 2024-07-18
 draft: false
 featured: true
 thumbnail: "/thumbnails/cat.png"
+description: "An AI-powered image search application using CLIP vision transformers to find similar cat pictures with semantic search capabilities."
 technologies: ["Python", "Flask", "React", "CLIP", "RCLIP", "Computer Vision"]
 github: "https://github.com/roblee04"
 status: "In Progress"

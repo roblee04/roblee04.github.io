@@ -4,6 +4,7 @@ date: 2024-04-01
 draft: false
 featured: false
 thumbnail: "/thumbnails/yuan.jpg"
+description: "A nostalgic 2D side-scrolling game tribute to MapleStory, built with HTML5 Canvas and vanilla JavaScript."
 technologies: ["JavaScript", "HTML5 Canvas", "Game Development"]
 github: "https://github.com/roblee04/lupinstory"
 demo: "https://roblee04.github.io/lupinstory/"
