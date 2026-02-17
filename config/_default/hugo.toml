@@ -1,0 +1,12 @@
+baseurl = "https://roblee04.github.io/"
+title = "Robin's Website"
+languageCode = "en-us"
+theme = "browse"
+
+[pagination]
+disableAliases = false
+pagerSize = 10
+path = 'page'
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]

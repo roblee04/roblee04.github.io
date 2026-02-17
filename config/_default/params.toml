@@ -1,0 +1,29 @@
+description = "Robin Lee's Personal Website - Computer Science and Engineering student at SCU"
+opengraph = true
+twitter_cards = false
+readmore = false
+pager = true
+post_meta = ["date", "categories"]
+mainSections = ["post"]
+defaultLightingMode = "auto"
+iconsDir = "img/"
+
+authorbox = true
+
+[author]
+  name = "Robin Lee"
+  bio = "I see and I remember. I do and I understand."
+  avatar = "img/avatar.png"
+
+[logo]
+subtitle = "Computer Science & Engineering"
+
+[sidebar]
+home = "right"
+list = "right"
+single = "right"
+widgets = ["search", "recent", "categories", "taglist"]
+
+[widgets]
+recent_num = 5
+tags_counter = false
