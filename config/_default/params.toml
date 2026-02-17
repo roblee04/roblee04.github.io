@@ -13,7 +13,7 @@ authorbox = true
 [author]
   name = "Robin Lee"
   bio = "I see and I remember. I do and I understand."
-  avatar = "img/avatar.png"
+  avatar = "img/author.jpg"
 
 [logo]
 subtitle = "Computer Science & Engineering"

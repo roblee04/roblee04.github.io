@@ -6,7 +6,7 @@ draft: false
 
 <div class="home-intro" style="display: flex; align-items: flex-start; gap: 2rem; margin-bottom: 2rem; flex-wrap: wrap;">
   <div class="home-photo" style="flex: 0 0 auto;">
-    <img src="/img/avatar.png" alt="Robin Lee" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; border: 4px solid #3498db;">
+    <img src="/img/author.jpg" alt="Robin Lee" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; border: 4px solid #3498db;">
   </div>
   <div class="home-bio" style="flex: 1 1 300px;">
     <h1 style="margin-top: 0;">Hi, I'm Robin Lee 👋</h1>
