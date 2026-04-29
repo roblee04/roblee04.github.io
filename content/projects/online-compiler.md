@@ -3,8 +3,8 @@ title: "Cloud Based Online Compiler"
 date: 2024-01-15
 draft: false
 featured: true
-weight: 100
-thumbnail: "/thumbnails/maple.png"
+weight: 20
+thumbnail: "/thumbnails/compiler-logo.webp"
 description: "An online compiler supporting multiple C/C++ compiler versions with code isolation using AWS Lambda for secure execution."
 technologies: ["Python", "AWS Lambda", "Docker", "C/C++", "React"]
 github: "https://github.com/roblee04/online-compiler"

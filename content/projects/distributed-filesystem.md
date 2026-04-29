@@ -3,7 +3,7 @@ title: "Distributed File System"
 date: 2024-03-15
 draft: false
 featured: true
-weight: 80
+weight: 30
 thumbnail: "/thumbnails/napster.jpg"
 description: "A fault-tolerant distributed file system that distributes load across multiple machines, built as a group final project for Distributed Systems course."
 technologies: ["Go", "Distributed Systems", "gRPC", "Fault Tolerance", "Replication"]

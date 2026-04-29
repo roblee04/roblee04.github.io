@@ -3,7 +3,7 @@ title: "Eye Tracking Keyboard"
 date: 2023-06-01
 draft: false
 featured: true
-weight: 90
+weight: 40
 thumbnail: "https://img.youtube.com/vi/kcG9jlgZPY8/maxresdefault.jpg"
 description: "An eye tracking virtual keyboard that works on any device with a webcam, enabling hands-free typing through gaze detection."
 technologies: ["Python", "OpenCV", "Computer Vision", "Eye Tracking", "Webcam"]

@@ -3,7 +3,7 @@ title: "Neural Image Compression with Text-Guided Encoding"
 date: 2024-12-01
 draft: false
 featured: true
-weight: 110
+weight: 60
 thumbnail: "https://img.youtube.com/vi/YxncWJhUSRs/maxresdefault.jpg"
 description: "Enhancing neural image compression by incorporating text captions to improve compression results using deep learning approaches like variational autoencoders."
 technologies: ["Python", "Deep Learning", "VAE", "PyTorch", "Computer Vision", "NLP"]

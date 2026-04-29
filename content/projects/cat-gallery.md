@@ -3,7 +3,7 @@ title: "Cat Gallery - AI Image Search"
 date: 2024-07-18
 draft: false
 featured: false
-weight: 50
+weight: 90
 thumbnail: "/thumbnails/cat.png"
 description: "An AI-powered image search application using CLIP vision transformers to find similar cat pictures with semantic search capabilities."
 technologies: ["Python", "Flask", "React", "CLIP", "RCLIP", "Computer Vision"]

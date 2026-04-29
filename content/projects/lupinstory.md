@@ -3,8 +3,8 @@ title: "LupinStory - MapleStory Tribute Game"
 date: 2024-04-01
 draft: false
 featured: false
-weight: 30
-thumbnail: "/thumbnails/yuan.jpg"
+weight: 80
+thumbnail: "/thumbnails/lupinstory-logo.png"
 description: "A nostalgic 2D side-scrolling game tribute to MapleStory, built with HTML5 Canvas and vanilla JavaScript."
 technologies: ["JavaScript", "HTML5 Canvas", "Game Development"]
 github: "https://github.com/roblee04/lupinstory"

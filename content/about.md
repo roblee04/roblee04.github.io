@@ -6,7 +6,7 @@ draft: false
 
 ## Who are you Robin?
 
-I'm currently a first year Master's student studying Computer Science and Engineering (CSEN) at Santa Clara University.
+I'm currently a second year Master's student studying Computer Science and Engineering (CSEN) at Santa Clara University.
 
 I'm also a second generation immigrant.
 

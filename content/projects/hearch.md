@@ -3,7 +3,7 @@ title: "Hearch - Serendipity-Focused Search Engine"
 date: 2024-11-15
 draft: false
 featured: true
-weight: 105
+weight: 70
 thumbnail: "/thumbnails/search.jpg"
 description: "A research search engine designed to combat commercial bloat and filter bubbles through anti-SEO heuristics and cross-lingual retrieval."
 technologies: ["Python", "NLP", "LLM", "Information Retrieval", "BM25", "Translation"]
